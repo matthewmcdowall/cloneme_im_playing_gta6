@@ -31,4 +31,4 @@ Issues and pull requests are welcome. Please open an issue to discuss larger cha
 
 ## License
 
-_TODO: choose a license (e.g. MIT) and add a `LICENSE` file._
+[MIT](LICENSE)
